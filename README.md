@@ -1,6 +1,7 @@
 # -- Hyaana's MultiVRM Viewer --
 Hyaana Discord :: **HyaanaMoon#9640**  
-Support Development :: https://ko-fi.com/hyaaner
+Support Development :: https://ko-fi.com/hyaaner  
+Download :: [Download current version here](https://github.com/Hyaana/MultiVRMViewer/raw/main/HyaanaVRMViewer.rar)
 
 If something breaks or a red error shows up:
 	- Go to AppData\LocalLow\Hyaana\VRMTestImport1 and get "Player.log"
