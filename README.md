@@ -1,5 +1,5 @@
 # -- Hyaana's MultiVRM Viewer --
-Hyaana Discord :: **HyaanaMoon#9640**
+Hyaana Discord :: **HyaanaMoon#9640**  
 Support Development :: https://ko-fi.com/hyaaner
 
 If something breaks or a red error shows up:
