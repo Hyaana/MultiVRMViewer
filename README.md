@@ -21,16 +21,16 @@ If something breaks or a red error shows up:
  	- This might freeze while it downloads other models / loads your own model
 
 ### Controls:
-	#### VRM Movement:
+	VRM Movement:
 	- A/D for left/right movement
 	- W/S for up/down movement
 	- Q/E for height adjustment
 	
-	#### Misc Controls:
+	Misc Controls:
 	- TAB for UI enable/disable
 	- M for microphone selector
 
-	#### Edit Model:
+	Edit Model:
 	- Click checkboxes to toggle clothing on model
 	- This will only work on certain VRM models
 		- Spefically models created where they were seperated by material before export
@@ -45,7 +45,7 @@ If something breaks or a red error shows up:
 	- Decent lighting (but not too much) needed
 - Click button labelled "Calibrate Tracking" to exit calibration
 	
-	#### Debug Mode:
+#### Debug Mode:
 	WARNING :: This modewill slow down the program significantly.
 	- Toggle "Tracking Debug"
 	- Click button labelled "Calibrate Tracking" to enter calibration
