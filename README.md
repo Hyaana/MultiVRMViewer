@@ -1,5 +1,5 @@
 # -- Hyaana's MultiVRM Viewer --
-Hyaana Discord :: HyaanaMoon#9640
+Hyaana Discord :: **HyaanaMoon#9640**
 
 If something breaks or a red error shows up:
 	- Go to AppData\LocalLow\Hyaana\VRMTestImport1 and get "Player.log"
@@ -37,7 +37,7 @@ If something breaks or a red error shows up:
 
 ### Body Tracking:		[NOT ENABLED ON CURRENT BUILD]
 ### NOTE : 	Tracking is very primitive and doesn't work really well.
-	All face tracking API cost > $50 with added costs for IK for smooth VRM motion, and I don't want to spend that on a pet project.
+All face tracking API cost > $50 with added costs for IK for smooth VRM motion, and I don't want to spend that on a pet project.
 
 - Click button labelled "Calibrate Tracking" to enter calibration
 - Hover over middle of your face and press R to calibrate
