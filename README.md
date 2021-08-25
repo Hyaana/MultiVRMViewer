@@ -4,11 +4,11 @@ Support Development :: https://ko-fi.com/hyaaner
 Download :: [Download current version here](https://github.com/Hyaana/MultiVRMViewer/raw/main/HyaanaVRMViewer.rar)
 
 If something breaks or a red error shows up:  
-	- Report the bug in Issues , with details on how to replicate
-	- wsadouibdoais
-	- Go to AppData\LocalLow\Hyaana\VRMTestImport1 and get "Player.log"
-	- Tell Hyaana what broke and the steps to break it
-	- Send Hyaana the log via discord
+- Report the bug in Issues , with details on how to replicate
+- _Optionally_
+- Go to AppData\LocalLow\Hyaana\VRMTestImport1 and get "Player.log"
+- Tell Hyaana what broke and the steps to break it
+- Send Hyaana the log via discord
 
 ### Loading VRM :
  - Click button labelled "Select VRM Model"
