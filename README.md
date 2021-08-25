@@ -5,7 +5,7 @@ Download :: [Download current version here](https://github.com/Hyaana/MultiVRMVi
 
 If something breaks or a red error shows up:
 	- Report the bug in Issues , with details on how to replicate.
-	Optionally :
+	- Optionally :
 	- Go to AppData\LocalLow\Hyaana\VRMTestImport1 and get "Player.log"
 	- Tell Hyaana what broke and the steps to break it
 	- Send Hyaana the log via discord
