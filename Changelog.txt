@@ -1,0 +1,11 @@
+v210825
+ - Fix clothes selector not populating bug
+ - Cleaned up main menu a bit
+ - Room selector re-implemented
+
+ Backend:
+ - Code clean for version , moved from MainMenuButton -> Startup
+ - Using new version system (date system -- yymmdd) rather than the confusing 0.x.y standard
+
+v210819
+Inital build upload
