@@ -1,7 +1,7 @@
 # -- Hyaana's MultiVRM Viewer --
 Hyaana Discord :: **HyaanaMoon#9640**  
 Support Development :: https://ko-fi.com/hyaaner  
-Download :: WINDOWS -> Click <<Code>> button, then download .zip
+Download ::  ##### WINDOWS -> Click **Code** button, then download .zip
 
 If something breaks or a red error shows up:  
 - Report the bug in Issues , with details on how to replicate
