@@ -4,8 +4,6 @@ Fix openvrm mouth movement
 -
 re-add toggle tracking for users without webcam
 -
-webcam selector , currently only setup for my webcam :)
--
 multiuser tracking:
 for every player have a "kinematic interpolation"
 sync x,y,z coordinates of object
