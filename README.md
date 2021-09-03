@@ -4,6 +4,9 @@ Support Development :: https://ko-fi.com/hyaaner
 Download ::  
 **WINDOWS** -> Click **Code** button, then download .zip
 
+Most recent update : v210902   [02/09/2021]
+[Changelog](https://github.com/Hyaana/MultiVRMViewer/blob/main/Changelog.txt)
+
 If something breaks or a red error shows up:  
 - Report the bug in Issues , with details on how to replicate
 - _Optionally_
