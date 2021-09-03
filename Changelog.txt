@@ -1,3 +1,17 @@
+v210903
+ - Implemented camera picker
+	- Access by pushing -P- (temporary key)
+ - Removed unused UI objects
+ - Main Menu UI updated
+	- Title added
+	- Neater menu layout 
+
+ Backend:
+ - Removed unused assets
+ - Clean up of scenes
+ - README updated with webcam info
+ - Removed reference to old tracking in README
+
 v210902
  - Redid face tracking again !
 	- Swap from barracuda to OpenSeeFace
@@ -6,11 +20,11 @@ v210902
  - Will re-add toggle button in the future for users without webcam
  - Changed pose to sitting, camera moved to compensate
  - Laid out steps for multiuser tracking
+ - Removed .rar from .git uploads
 
  Misc:
  - Current use of OpenSeeFace has disabled detailed mouth movement for more basic but tracked one
    This will be fixed in a future update
- - Removed .rar from .git uploads
 
 v280821
  - Reworking face tracking

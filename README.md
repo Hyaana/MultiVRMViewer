@@ -1,7 +1,11 @@
 # -- Hyaana's MultiVRM Viewer --
 Hyaana Discord :: **HyaanaMoon#9640**  
 Support Development :: https://ko-fi.com/hyaaner  
-Download :: [Download current version here](https://github.com/Hyaana/MultiVRMViewer/raw/main/HyaanaVRMViewer.rar)
+Download ::  
+**WINDOWS** -> Click **Code** button, then download .zip
+
+Most recent update : v210903   [03/09/2021]
+[Changelog](https://github.com/Hyaana/MultiVRMViewer/blob/main/Changelog.txt)
 
 If something breaks or a red error shows up:  
 - Report the bug in Issues , with details on how to replicate
@@ -17,7 +21,8 @@ If something breaks or a red error shows up:
  	- Only need to do this once, if you have already uploaded your model you can skip this step!
  - If a room does not exist yet, click button labelled "Create Room"
  - If a room does exist and you wish to join that room click button labelled "Join Room"
-	- (Plan to add a room finder in the future)
+	- Select room code from list of rooms that appear
+	- If no rooms appear, no multiuser rooms exist
 
 ### After Create/Join:
  - Wait for your model to load in
@@ -30,6 +35,10 @@ If something breaks or a red error shows up:
 	- W/S for up/down movement
 	- Q/E for height adjustment
 	
+	Model:
+	- Return menu button returns you to the main menu
+	- Calibrate Tracking button will reset your body tracked position
+	
 	Misc Controls:
 	- TAB for UI enable/disable
 	- M for microphone selector
@@ -38,21 +47,3 @@ If something breaks or a red error shows up:
 	- Click checkboxes to toggle clothing on model
 	- This will only work on certain VRM models
 		- Spefically models created where they were seperated by material before export
-
-### Body Tracking:		[NOT ENABLED ON CURRENT BUILD]
-### NOTE : 	Tracking is very primitive and doesn't work really well.
-All face tracking API cost > $50 with added costs for IK for smooth VRM motion, and I don't want to spend that on a pet project.
-
-- Click button labelled "Calibrate Tracking" to enter calibration
-- Hover over middle of your face and press R to calibrate
-	- Forehead or cheek works best
-	- Decent lighting (but not too much) needed
-- Click button labelled "Calibrate Tracking" to exit calibration
-	
-#### Debug Mode:
-	WARNING :: This modewill slow down the program significantly.
-	- Toggle "Tracking Debug"
-	- Click button labelled "Calibrate Tracking" to enter calibration
-		- Webcam image will be white/black
-	- Press R to calibrate in a black area
-	- Tracked center will be represented by red/green lines
