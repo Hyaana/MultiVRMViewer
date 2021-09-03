@@ -1,3 +1,29 @@
+v210902
+ - Redid face tracking again !
+	- Swap from barracuda to OpenSeeFace
+	- https://github.com/emilianavt/OpenSeeFace
+ - Replaced toggle tracking button with Calibrate button
+ - Will re-add toggle button in the future for users without webcam
+ - Changed pose to sitting, camera moved to compensate
+ - Laid out steps for multiuser tracking
+
+ Misc:
+ - Current use of OpenSeeFace has disabled detailed mouth movement for more basic but tracked one
+   This will be fixed in a future update
+ - Removed .rar from .git uploads
+
+v280821
+ - Reworking face tracking
+	- Using Neural Network now (Barracuda)
+	- Tracking better than before but still not 100%
+	- Lots of noise in body movement
+	- Not synced yet
+ - Smoother movement of player movement (currently just left/right to test sync)
+ 
+
+ Backend:
+ - Update to Unity2020.3.8f1
+
 v210825
  - Fix clothes selector not populating bug
  - Cleaned up main menu a bit
