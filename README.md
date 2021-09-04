@@ -7,7 +7,8 @@ Download ::
 Most recent update : v210903a   [03/09/2021]
 [Changelog](https://github.com/Hyaana/MultiVRMViewer/blob/main/Changelog.txt)
 
-This app has not been thoroughly tested yet, so please please report anything wonky if you find it!
+#### This app has not been thoroughly tested yet, so please please report anything wonky if you find it!
+
 If something breaks or a red error shows up:  
 - Report the bug in Issues , with details on how to replicate
 - _Optionally_
