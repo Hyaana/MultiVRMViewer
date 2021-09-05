@@ -1,0 +1,70 @@
+v210905
+ - Fixed head rotation not syncing
+ - Fixed OculusLipSync not moving mouth
+ - Fixed player head rotation on initial load
+ - Edit model checkboxes fixed to better reflect if model part is enabled/disabled
+ - Version number added to title
+ - Renaming file from TestVRM to HyaanaMultiVRMViewer
+
+v210903a
+ - Actually uploaded to github !! 
+ - Increased height of IKHeadTarget to 1.5f
+	- Will reduce amount of body movement from left to right
+	- Should result in slightly better tracking
+ - IKHeadTarget now moves with avatar
+
+ - Multiuser tracking now working!!!
+	- OculusLipSync now not working
+	- Some small out of sync issues
+
+v210903
+ - Implemented camera picker
+	- Access by pushing -P- (temporary key)
+ - Removed unused UI objects
+ - Main Menu UI updated
+	- Title added
+	- Neater menu layout 
+
+ Backend:
+ - Removed unused assets
+ - Clean up of scenes
+ - README updated with webcam info
+ - Removed reference to old tracking in README
+
+v210902
+ - Redid face tracking again !
+	- Swap from barracuda to OpenSeeFace
+	- https://github.com/emilianavt/OpenSeeFace
+ - Replaced toggle tracking button with Calibrate button
+ - Will re-add toggle button in the future for users without webcam
+ - Changed pose to sitting, camera moved to compensate
+ - Laid out steps for multiuser tracking
+ - Removed .rar from .git uploads
+
+ Misc:
+ - Current use of OpenSeeFace has disabled detailed mouth movement for more basic but tracked one
+   This will be fixed in a future update
+
+v280821
+ - Reworking face tracking
+	- Using Neural Network now (Barracuda)
+	- Tracking better than before but still not 100%
+	- Lots of noise in body movement
+	- Not synced yet
+ - Smoother movement of player movement (currently just left/right to test sync)
+ 
+
+ Backend:
+ - Update to Unity2020.3.8f1
+
+v210825
+ - Fix clothes selector not populating bug
+ - Cleaned up main menu a bit
+ - Room selector re-implemented
+
+ Backend:
+ - Code clean for version , moved from MainMenuButton -> Startup
+ - Using new version system (date system -- yymmdd) rather than the confusing 0.x.y standard
+
+v210819
+Inital build upload

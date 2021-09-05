@@ -1,3 +1,11 @@
+v210905
+ - Fixed head rotation not syncing
+ - Fixed OculusLipSync not moving mouth
+ - Fixed player head rotation on initial load
+ - Edit model checkboxes fixed to better reflect if model part is enabled/disabled
+ - Version number added to title
+ - Renaming file from TestVRM to HyaanaMultiVRMViewer
+
 v210903a
  - Actually uploaded to github !! 
  - Increased height of IKHeadTarget to 1.5f
