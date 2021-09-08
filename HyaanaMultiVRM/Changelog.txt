@@ -1,10 +1,18 @@
+v210908
+ - Added version checker to main menu
+ - Main menu text less blurry
+ - Disable Join/Create buttons when upload is in progress
+ - Text colour formatting for error/success [blue = success / red = error]
+ - Better selection for microphone and webcam
+	- Buttons to select now show on right panel
+	- Clicking will show a drop down menu of devices
+
 v210905
  - Fixed head rotation not syncing
  - Fixed OculusLipSync not moving mouth
  - Fixed player head rotation on initial load
  - Edit model checkboxes fixed to better reflect if model part is enabled/disabled
  - Version number added to title
- - Renaming file from TestVRM to HyaanaMultiVRMViewer
 
 v210903a
  - Actually uploaded to github !! 

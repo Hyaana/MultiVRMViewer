@@ -1,3 +1,12 @@
+v210908
+ - Added version checker to main menu
+ - Main menu text less blurry
+ - Disable Join/Create buttons when upload is in progress
+ - Text colour formatting for error/success [blue = success / red = error]
+ - Better selection for microphone and webcam
+	- Buttons to select now show on right panel
+	- Clicking will show a drop down menu of devices
+
 v210905
  - Fixed head rotation not syncing
  - Fixed OculusLipSync not moving mouth
