@@ -4,7 +4,7 @@ Support Development :: https://ko-fi.com/hyaaner
 Download ::  
 **WINDOWS** -> Click **Code** button, then download .zip
 
-Most recent update : v210905   [05/09/2021]
+Most recent update : v210908   [08/09/2021]
 [Changelog](https://github.com/Hyaana/MultiVRMViewer/blob/main/Changelog.txt)
 
 #### This app has not been thoroughly tested yet, so please please report anything wonky if you find it!
@@ -41,10 +41,15 @@ If something breaks or a red error shows up:
 	- Return menu button returns you to the main menu
 	- Calibrate Tracking button will reset your body tracked position
 	
+	Mic / Webcam:
+	- Selection by buttons on the right hand side
+	Alternate controls:
+	- M for microphone selector
+	- P for webcam selector
+	
 	Misc Controls:
 	- TAB for UI enable/disable
-	- M for microphone selector
-
+	
 	Edit Model:
 	- Click checkboxes to toggle clothing on model
 	- This will only work on certain VRM models
