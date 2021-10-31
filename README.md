@@ -4,7 +4,7 @@ Support Development :: https://ko-fi.com/hyaaner
 Download ::  
 **WINDOWS** -> Click **Code** button, then download .zip
 
-Most recent update : v210908   [08/09/2021]
+Most recent update : v311021   [31/10/2021]
 [Changelog](https://github.com/Hyaana/MultiVRMViewer/blob/main/Changelog.txt)
 
 #### This app has not been thoroughly tested yet, so please please report anything wonky if you find it!
