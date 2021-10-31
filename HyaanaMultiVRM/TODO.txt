@@ -1,0 +1,8 @@
+expression support - w/ custom hotkeys
+
+transparent window
+
+sync eyes (blinking)
+custom backgrounds
+
+lighting settings
