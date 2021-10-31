@@ -1,3 +1,19 @@
+v210908-test
+ - Removed 1920x1080 window size restriction
+ - Main scene now fullscreen
+ - Testing transparent window
+	- Toggle transparency button added to left panel
+	- Transparency requires full screen app
+----
+
+v311021
+ - No longer locked to fullscreen
+ - Resizeable window
+ - Greenscreen fixed (I think this was only an issue in the test build)
+ - Removing redundant files
+	- Barraduda face tracking (keeping my own tracking bc code could be useful)
+ - Extra text added in menu for support
+
 v210908
  - Added version checker to main menu
  - Main menu text less blurry
