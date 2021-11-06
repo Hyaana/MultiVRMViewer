@@ -9,6 +9,9 @@ Most recent update : v311021   [31/10/2021]
 
 #### This app has not been thoroughly tested yet, so please please report anything wonky if you find it!
 
+ - MODELS FROM VROID DO NOT CURRENTLY SUPPORT TRACKING, THIS IS BEING WORKED ON -
+
+
 If something breaks or a red error shows up:  
 - Report the bug in Issues , with details on how to replicate
 - _Optionally_
